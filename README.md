@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 # portfolio-website
 A personal portfolio website built using React, showcasing projects, skills, and contact information.
 >>>>>>> 075d80bb95919a632cf5dcc239b9d4cfd6c01f93
+Run the Project:
+>>>>>>>npm install
+>>>>>>> npm run dev
