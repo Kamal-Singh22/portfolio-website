@@ -3,9 +3,15 @@ import project2 from "../assets/projects/project-2.jpeg";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
 
-export const HERO_CONTENT = `A highly motivated Computer Science and Engineering student at Jain University who specializes in full-stack and mobile app development in Java, Kotlin, and Python. I have extensive experience creating Android applications and scalable web platforms, as well as a good understanding of agile development processes. Passionate about using technical expertise to create effective solutions and drive innovation.`;
+export const HERO_CONTENT = `Android Developer with a focus on building secure, scalable, and high-performance mobile apps using Kotlin, Java, and Android Jetpack. Experienced in developing SDK components, authentication modules, and fintech integrations, along with hands-on expertise in Firebase and real-time app development. I enjoy transforming ideas into reliable, production-ready Android experiences.`;
 
-export const ABOUT_TEXT = `A highly motivated Computer Science and Engineering student at Jain University with an 8.1 CGPA who specializes in full-stack and mobile app development in Java, Kotlin, and Python. I have extensive experience creating Android applications and scalable web platforms, as well as a good understanding of agile development processes. Passionate about using technical expertise to create effective solutions and drive innovation.`;
+export const ABOUT_TEXT = `Hi, I'm Kamal Singh, an Android Developer with hands-on experience in a fintech production environment, focused on the development of reliable, secure, and high-performance mobile solutions. My expertise lies in Java, Kotlin, and Android Jetpack, where I specialize in developing SDK plugins, authentication systems, and robust network integrations.
+
+Within i-exceed technology, my work area involves the reliability of bank-grade applications: production issues investigation, development of secure SDK components, and their efficient fixes to keep platform stability.
+
+Beyond professional work, I have developed a real-time application like a Firebase-powered chat app and an AI-driven sentiment analysis model, fusing mobile development with machine learning to impactfully create user-focused products.
+
+I am passionate about crafting scalable Android applications with clean architecture, exploring new technologies, and contributing to projects that push the boundaries of innovation and reliability.`;
 
 export const INTERNSHIPS = [
   {
@@ -52,7 +58,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Kanakapura, Bangalore, Karnataka, India, 562112",
+  address: "Bangalore, Karnataka, India, 560068",
   phoneNo: "+91 7975781147",
   email: "kamalsinghbs347@gmail.com",
 };

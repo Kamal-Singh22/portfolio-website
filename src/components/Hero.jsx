@@ -33,6 +33,23 @@ const Hero = () => {
             >
               Software Developer
             </motion.span>
+             {/* ⭐ Added Line */}
+
+            <motion.h3
+
+              variants={container(0.7)}
+
+              initial="hidden"
+
+              animate="visible"
+
+              className="text-xl font-light text-neutral-400 mt-2"
+
+            >
+
+              Android Developer at i-exceed Technology
+
+            </motion.h3>
             <motion.p
               variants={container(1)}
               initial="hidden"
@@ -49,7 +66,8 @@ const Hero = () => {
               initial={{ x: 100, opacity: 0 }}
               animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 1, delay: 1.5 }}
-              src={photo} alt="Kamal"
+              src={photo}
+               alt="Kamal"
             />
           </div>
         </div>
